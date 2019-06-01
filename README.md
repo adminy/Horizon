@@ -4,6 +4,9 @@
 
 #### **Initial setup**
 
+#Remove is done to setup stuff correctly
+➡️ `cordova platform remove ios`
+
 ➡️ `cordova platform add ios`
 
 ➡️ `npm install --save`
